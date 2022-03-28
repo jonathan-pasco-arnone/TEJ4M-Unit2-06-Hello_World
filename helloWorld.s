@@ -1,6 +1,6 @@
 /* Created by: Jonathan Pasco-Arnone
  * Created March 2022
- * This program prints "Hello, World!"
+ * This program prints "Hello, World!\n"
  */
 
 .data
