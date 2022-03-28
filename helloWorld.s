@@ -7,7 +7,7 @@
 
 /* data section */
 msg:
-.asciz "Hello, World!\n"
+  .asciz "Hello, World!\n"
 len = . - msg
 
 .text
